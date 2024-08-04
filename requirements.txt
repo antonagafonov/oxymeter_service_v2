@@ -1,0 +1,4 @@
+bluepy
+paho-mqtt
+adafruit-circuitpython-charlcd
+RPLCD.i2c
